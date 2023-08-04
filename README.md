@@ -19,4 +19,4 @@
 
 ###### Prints do App
 ![print1](https://github.com/xandedutra161/AppBrasileirao/assets/141428908/dd810d2c-bb37-4775-b848-aff681091f12)
-![print](https://github.com/xandedutra161/AppBrasileirao/assets/141428908/02a42fd1-8c13-47af-8c17-fe5a4cd912ec)
+![appBrasileirao](https://github.com/xandedutra161/AppBrasileirao/assets/141428908/57f19f78-0bdb-4264-a831-e5449851097f)
