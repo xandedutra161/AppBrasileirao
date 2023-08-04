@@ -17,5 +17,6 @@
 - ViewBinding -> É uma abordagem mais segura e conveniente para lidar com a interação entre a interface de usuário em aplicativos Android.
 - StateFlow -> Fluxo observável de detentor de estado que emite as atualizações de estado atual e novo para seus coletores.
 
+###### Prints do App
 ![print1](https://github.com/xandedutra161/AppBrasileirao/assets/141428908/dd810d2c-bb37-4775-b848-aff681091f12)
 ![print](https://github.com/xandedutra161/AppBrasileirao/assets/141428908/02a42fd1-8c13-47af-8c17-fe5a4cd912ec)
