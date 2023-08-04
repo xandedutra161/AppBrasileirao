@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppBrasileirao</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--    item Team and item Player-->
+    <string name="tx_item_name">Nome</string>
+    <string name="tv_item_description">O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo.</string>
+    <string name="tv_capacity">Capacidade 40000</string>
+    <string name="text_description_empty">Esse time não possui descrição.</string>
+    <string name="players">Jogadores</string>
+
+    <!--    Toast messages -->
+    <string name="an_error_occurred">Um erro ocorreu!</string>
+
+    <!--    Details Character Fragment -->
+    <string name="empty_list_players">Esse personagem não possui </string>
+    <string name="close_dialog">Fechar</string>
+</resources>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/listTeamFragment">
+
+    <fragment
+        android:id="@+id/detailsTeamFragment"
+        tools:layout="@layout/fragment_details_team"
+        android:name="com.example.appbrasileirao.ui.details.DetailsTeamFragment"
+        android:label="DetailsTeamFragment" >
+        <argument
+            android:name="response"
+            app:argType="com.example.appbrasileirao.data.model.team.Response" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/listTeamFragment"
+        tools:layout="@layout/fragment_list_team"
+        android:name="com.example.appbrasileirao.ui.list.ListTeamFragment"
+        android:label="ListTeamFragment" >
+        <action
+            android:id="@+id/action_listTeamFragment_to_detailsTeamFragment"
+            app:destination="@id/detailsTeamFragment" />
+    </fragment>
+
+</navigation>
