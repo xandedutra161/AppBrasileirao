@@ -12,6 +12,7 @@
 - Navigation
 - Arquitetura MVVM
 - Coroutines
-- Retrofit
+- Retrofit & Gson
 - okHttp
+- ViewModel & LiveData
 - StateFlow
