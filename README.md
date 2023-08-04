@@ -12,7 +12,8 @@
 - Navigation -> Simplifica a implementação da navegação em um aplicativo Android.
 - Coroutines -> Para funções assíncronas.
 - Retrofit & OkHttp3 -> Construir as APIs REST.
-- Gson -> Converter objetos Java (ou Kotlin) em formato JSON e vice-versa
+- DiffUtil -> Melhora o desempenho do RecyclerView.
+- Gson -> Converter objetos Java (ou Kotlin) em formato JSON e vice-versa.
 - Flow -> Biblioteca usada para modelar fluxos de dados.
 - ViewBinding -> É uma abordagem mais segura e conveniente para lidar com a interação entre a interface de usuário em aplicativos Android.
 - StateFlow -> Fluxo observável de detentor de estado que emite as atualizações de estado atual e novo para seus coletores.
