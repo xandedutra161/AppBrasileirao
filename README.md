@@ -16,3 +16,4 @@
 - okHttp
 - ViewModel & LiveData
 - StateFlow
+- ViewBinding
