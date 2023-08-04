@@ -6,14 +6,14 @@
 - **Atualize "HEADER_VALUE_RAPIDAPI_KEY"** no arquivo Constants do projeto antes de compilar o projeto.
 
 ###### Bibliotecas externas usadas
-- Kotlin
-- Glide
-- Hilt
-- Navigation
-- Arquitetura MVVM
-- Coroutines
-- Retrofit & Gson
-- okHttp
-- ViewModel & LiveData
-- StateFlow
-- ViewBinding
+- Kotlin -> Linguagem de programação oficial para desenvolvimento Android.
+- Glide -> Biblioteca de carregamento e cache de imagens para Android focada em rolagem suave.
+- Dagger-Hilt -> Biblioteca padrão para incorporar a injeção de dependência do Dagger em um aplicativo Android.
+- Navigation -> Simplifica a implementação da navegação em um aplicativo Android.
+- Coroutines -> Para funções assíncronas.
+- Retrofit & OkHttp3 -> Construir as APIs REST.
+- Gson -> Converter objetos Java (ou Kotlin) em formato JSON e vice-versa
+- Flow -> Biblioteca usada para modelar fluxos de dados.
+- ViewBinding -> É uma abordagem mais segura e conveniente para lidar com a interação entre a interface de usuário em aplicativos Android.
+- StateFlow -> Fluxo observável de detentor de estado que emite as atualizações de estado atual e novo para seus coletores.
+
